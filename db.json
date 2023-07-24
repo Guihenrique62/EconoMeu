@@ -1,0 +1,52 @@
+{
+  "finances": [
+    {
+      "name": "slario",
+      "value": "1100",
+      "date": "2023-07-05",
+      "id": 1
+    },
+    {
+      "name": "seguro ",
+      "value": "-20",
+      "date": "2023-02-01",
+      "id": 3
+    },
+    {
+      "name": "roacutan ",
+      "value": "-140",
+      "date": "2021-01-01",
+      "id": 4
+    },
+    {
+      "name": "detran",
+      "value": "-300",
+      "date": "2032-01-01",
+      "id": 6
+    },
+    {
+      "name": "claro",
+      "value": "-30",
+      "date": "2303-01-01",
+      "id": 7
+    },
+    {
+      "name": "cartao",
+      "value": "-668",
+      "date": "3203-02-01",
+      "id": 8
+    },
+    {
+      "name": "paulo",
+      "value": "30",
+      "date": "0235-05-13",
+      "id": 9
+    },
+    {
+      "name": "RATEIO NIVER",
+      "value": "-25",
+      "date": "4124-12-24",
+      "id": 10
+    }
+  ]
+}
